@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @heyubaidullah
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently working on CNN
-- 💞️ I’m looking to collaborate on projects related to my field
+- 👏 I’m looking to collaborate on projects related to my field
 - 📫 How to reach me linktr.ee/heyubaidullah
 - ⚡ Fun fact: I listen more and talk less.
 
