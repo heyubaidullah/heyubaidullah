@@ -2,7 +2,7 @@
 heyubaidullah/heyubaidullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">Hi 👋, I'm Khan</h1>
+<h1 align="center">Hi 👋, I'm Ubaid</h1>
 <h3 align="center">Exploring the Realm of Computer Science</h3>
 
 - 🔭 I’m currently working on **A Paralanguage Project**
