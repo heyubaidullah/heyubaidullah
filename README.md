@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Ubaid</h1>
 <h3 align="center">Exploring the Realm of Computer Science</h3>
 
-- 🔭 I’m currently working on **A Paralanguage Project**
+- 🔭 I’m currently working on **LargeScale DB Management Project**
 
 - 👨‍💻 All of my projects are available at [https://github.com/heyubaidullah](https://github.com/heyubaidullah)
 
@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 - 📄 Connect with me on LinkedIn [https://linkedin.com/in/heyubaidullah](https://linkedin.com/in/heyubaidullah)
 
-- ⚡ Fun fact: I listen more and talk less.
+- ⚡ Fun fact: I am a product person. HMU for design, strategy, architecture, new tech and Data!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
